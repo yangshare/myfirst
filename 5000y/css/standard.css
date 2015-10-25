@@ -1,0 +1,27 @@
+.About_DaoHang{
+
+	margin: 16px auto;}
+.hide{
+	display:none;}
+	
+.About_About{
+	margin:20px auto;}
+.About_People {
+	width: 980px;
+	margin: 0 auto;
+	overflow: hidden;}
+.About_People img{
+	background: url("loading.gif") center center no-repeat;
+	width: 318px;
+	height: 207px;
+	}
+
+.About_People li{
+	float: left;
+	margin-right: 10px;
+	width: 318px;
+	height: 207px;
+	margin-bottom: 20px;
+	overflow: hidden;
+	cursor: pointer;
+	}

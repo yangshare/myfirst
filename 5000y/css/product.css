@@ -1,0 +1,41 @@
+/* CSS Document */
+hr{clear:both;
+}
+.Case_DaoHang{
+	
+	margin:16px auto;
+	clear:both;}
+.Case_DaoHang li{
+	float:left;
+	margin:5px;
+	
+		
+	}
+.Case_DaoHang li a{
+	font-size:14px;
+	
+	}
+.Case_DaoHang li a:hover{
+	border-bottom: 2px solid #c40e24;
+	
+	}
+.Case_CanPing {
+	width: 980px;
+	margin: 0 auto;
+	overflow: hidden;}
+.Case_CanPing img{
+	background: url("loading.gif") center center no-repeat;
+	width: 318px;
+	height: 207px;
+	}
+
+.Case_CanPing li{
+	float: left;
+	margin-right: 10px;
+	width: 318px;
+	height: 207px;
+	margin-bottom: 20px;
+	overflow: hidden;
+	cursor: pointer;
+	}
+

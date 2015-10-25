@@ -1,0 +1,11 @@
+/* CSS Document */
+.Contact_main {
+	width: 980px;
+	margin: 30px auto;
+	overflow: hidden;}
+.Ycontacts{margin:5px auto;}
+.contact li{ background:url(footbg.png) no-repeat; height:25px;padding-left:20px; font-size:14px; color:#bbb; overflow:hidden}
+.contact_title{margin:5px auto;clear:both;float:left;}
+.css_btn_class{font-size:16px;font-family:Arial;font-weight:normal;border:1px solid #dcdcdc;padding:9px 18px;text-decoration:none;border-bottom:2px #c40e24 solid;color:#777;display:inline-block}
+.contact_swf{width:530px; height:400px;position: absolute;margin-left: 530px;}
+
